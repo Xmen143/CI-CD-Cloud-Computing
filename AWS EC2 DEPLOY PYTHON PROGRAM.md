@@ -1,26 +1,34 @@
 # AWS EC2 INSTANCE PROJECT
 ## CREATE A EC2 INSTANCE
-..* CHOOSE an Amazon Machine Image
-..* Choose Instance Type
-..* Config instance
-..* Add Storage- Free Tier
-..* Add TAgs- Default
-..* Config Security Group
-..* Review
+ CHOOSE an Amazon Machine Image
+ Choose Instance Type
+ Config instance
+ Add Storage- Free Tier
+ Add TAgs- Default
+ Config Security Group
+ Review
 
 # ELASTIC IP ADDRESS
 # ALLOCATE WITH DEFAULT SETTING
 >ACTION
+
 >ASSOCIATE ELASTIC IP ADDRESS- COPY INSTANCE
+
 >ASSOCIATE
 
 # CONNECT EC2 INSTANCE
 > RDP CLIENT.
+
 > DOWNLOAD REMOTE DESKTOP FILE.
+
 > GET PASSWORD CLICK.
+
 > BROWSE .PEM FILE.
+
 > DECRYPT PASSWORD.
+
 > COPY PASSWORD.
+
 
 OPEN EC2 DEMO.RDP
 PASTE PASSWORD
