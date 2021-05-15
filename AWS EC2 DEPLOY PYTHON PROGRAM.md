@@ -1,11 +1,17 @@
 # AWS EC2 INSTANCE PROJECT
 ## CREATE A EC2 INSTANCE
  CHOOSE an Amazon Machine Image
+
  Choose Instance Type
+
  Config instance
+
  Add Storage- Free Tier
+
  Add TAgs- Default
+
  Config Security Group
+ 
  Review
 
 # ELASTIC IP ADDRESS
@@ -31,10 +37,12 @@
 
 
 OPEN EC2 DEMO.RDP
+
 PASTE PASSWORD
 
  # EC2 INSTANCE IS OPEN VM
 THEN WE HAVE TO SETUP CHROME FILE
+
 DOWNLOAD PYTHONCHECK FIREWALL ALLOW 
 
 >OPEN TERMINALINSTALL REQUIREMENT
