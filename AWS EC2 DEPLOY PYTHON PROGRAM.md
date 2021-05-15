@@ -1,18 +1,18 @@
 # AWS EC2 INSTANCE PROJECT
 ## CREATE A EC2 INSTANCE
- CHOOSE an Amazon Machine Image
+* CHOOSE an Amazon Machine Image
 
- Choose Instance Type
+* Choose Instance Type
 
- Config instance
+* Config instance
 
- Add Storage- Free Tier
+* Add Storage- Free Tier
 
- Add TAgs- Default
+* Add TAgs- Default
 
- Config Security Group
- 
- Review
+* Config Security Group
+
+* Review
 
 # ELASTIC IP ADDRESS
 # ALLOCATE WITH DEFAULT SETTING
